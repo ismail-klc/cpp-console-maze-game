@@ -1,4 +1,0 @@
-﻿  Kaynak.cpp
-c:\users\msinb\source\repos\lab_projesİ\lab_projesİ\kaynak.cpp(154): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
-c:\users\msinb\source\repos\lab_projesİ\lab_projesİ\kaynak.cpp(291): warning C4101: 'i': yerel değişken başvurusu kaldırıldı
-  LAB_PROJESİ.vcxproj -> C:\Users\MSINB\source\repos\LAB_PROJESİ\Debug\LAB_PROJESİ.exe
